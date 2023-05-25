@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="font">#39250B</color>
+    <color name="icon_gradient0">#FF4B03</color>
+    <color name="icon_gradient1">#FCFF65</color>
+    <color name="icon_bg">#FFF7EC</color>
+</resources>
