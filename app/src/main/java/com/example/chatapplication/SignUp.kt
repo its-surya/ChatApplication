@@ -49,7 +49,7 @@ class SignUp : AppCompatActivity() {
 
                 } else {
                     // If sign in fails, display a message to the user.
-                    Toast.makeText( this@SignUp , "Some error occured" , Toast.LENGTH_SHORT).show()
+                    Toast.makeText( this@SignUp , "Some error occurred" , Toast.LENGTH_SHORT).show()
                 }
             }
 
